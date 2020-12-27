@@ -1,0 +1,5 @@
+After creating a react app, I am going to upload site in a search
+
+1. yarn build       this will add a new folder in the project with minified files
+2. surge ./build    upload build in surge
+        domain: react-firstapp-fas.surge.sh
